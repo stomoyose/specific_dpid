@@ -1,3 +1,3 @@
 # test_controller
 
-Controller for THE OpenFlowSwitch has specific dpid. 
+Trema Controller for THE OpenFlowSwitch with specific dpid
